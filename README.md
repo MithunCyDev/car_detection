@@ -1,3 +1,3 @@
 # car_detection
 
-<img src ="./capture.png" alt="image"/>
+<img src ="../capture.png" alt="image"/>
